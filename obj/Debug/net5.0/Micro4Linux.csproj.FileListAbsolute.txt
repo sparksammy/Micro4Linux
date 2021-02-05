@@ -1,0 +1,16 @@
+/home/insumania/Micro4Linux/obj/Debug/net5.0/Micro4Linux.csprojAssemblyReference.cache
+/home/insumania/Micro4Linux/obj/Debug/net5.0/Micro4Linux.GeneratedMSBuildEditorConfig.editorconfig
+/home/insumania/Micro4Linux/obj/Debug/net5.0/Micro4Linux.AssemblyInfoInputs.cache
+/home/insumania/Micro4Linux/obj/Debug/net5.0/Micro4Linux.AssemblyInfo.cs
+/home/insumania/Micro4Linux/obj/Debug/net5.0/Micro4Linux.csproj.CoreCompileInputs.cache
+/home/insumania/Micro4Linux/bin/Debug/net5.0/Micro4Linux
+/home/insumania/Micro4Linux/bin/Debug/net5.0/Micro4Linux.deps.json
+/home/insumania/Micro4Linux/bin/Debug/net5.0/Micro4Linux.runtimeconfig.json
+/home/insumania/Micro4Linux/bin/Debug/net5.0/Micro4Linux.runtimeconfig.dev.json
+/home/insumania/Micro4Linux/bin/Debug/net5.0/Micro4Linux.dll
+/home/insumania/Micro4Linux/bin/Debug/net5.0/ref/Micro4Linux.dll
+/home/insumania/Micro4Linux/bin/Debug/net5.0/Micro4Linux.pdb
+/home/insumania/Micro4Linux/obj/Debug/net5.0/Micro4Linux.dll
+/home/insumania/Micro4Linux/obj/Debug/net5.0/ref/Micro4Linux.dll
+/home/insumania/Micro4Linux/obj/Debug/net5.0/Micro4Linux.pdb
+/home/insumania/Micro4Linux/obj/Debug/net5.0/Micro4Linux.genruntimeconfig.cache
